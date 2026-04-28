@@ -6,6 +6,10 @@
 
 ---
 
+> **⚠️ DEMO DATA:** All current statements, verifications, and transcripts are **fictional examples** created to demonstrate the data structure. Real data collection has not started yet. Do not cite this as factual information about any politician.
+
+---
+
 ## What This Is
 
 A public database tracking:
@@ -45,6 +49,8 @@ transcripts/              # Full transcriptions
 | Statements | 5 (demo) |
 | Verifications | 2 (demo) |
 | Contradictions | 1 (demo) |
+
+> **Note:** Current data is **fictional demo data** to illustrate the structure. Real data collection starts when we begin transcribing actual interviews.
 
 ---
 
