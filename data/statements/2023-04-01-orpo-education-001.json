@@ -1,0 +1,17 @@
+{
+  "id": "2023-04-01-orpo-education-001",
+  "politician_id": "petteri-orpo",
+  "statement": "Emme leikkaa koulutuksesta",
+  "statement_en": "We will not cut education funding",
+  "type": "promise",
+  "topic": ["education", "budget"],
+  "confidence": "high",
+  "reasoning": "Education is a priority for the coalition",
+  "date": "2023-04-01",
+  "source_url": "https://example.com/campaign-speech-2023",
+  "source_type": "campaign_speech",
+  "platform": "Campaign event",
+  "submitted_by": "demo",
+  "status": "approved",
+  "created_at": "2026-04-28"
+}

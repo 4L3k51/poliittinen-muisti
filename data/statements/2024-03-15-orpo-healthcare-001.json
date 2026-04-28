@@ -1,0 +1,19 @@
+{
+  "id": "2024-03-15-orpo-healthcare-001",
+  "politician_id": "petteri-orpo",
+  "statement": "Leikkaukset eivät vaikuta terveydenhuollon laatuun",
+  "statement_en": "The cuts will not affect healthcare quality",
+  "type": "prediction",
+  "topic": ["healthcare", "budget"],
+  "confidence": "high",
+  "reasoning": "Efficiency improvements will compensate for reduced funding",
+  "date": "2024-03-15",
+  "source_url": "https://example.com/yle-interview-2024-03-15",
+  "source_type": "tv_interview",
+  "platform": "Yle",
+  "transcript_file": "transcripts/2024-03-15-yle-orpo-interview.md",
+  "timestamp_seconds": 340,
+  "submitted_by": "demo",
+  "status": "approved",
+  "created_at": "2026-04-28"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2024-09-15-orpo-education-002",
+  "politician_id": "petteri-orpo",
+  "statement": "Koulutusleikkaukset ovat välttämättömiä taloustilanteen vuoksi",
+  "statement_en": "Education cuts are necessary due to the economic situation",
+  "type": "policy_position",
+  "topic": ["education", "budget"],
+  "confidence": "high",
+  "reasoning": "Fiscal responsibility requires difficult decisions",
+  "date": "2024-09-15",
+  "source_url": "https://example.com/budget-speech-2024",
+  "source_type": "parliament_speech",
+  "platform": "Eduskunta",
+  "submitted_by": "demo",
+  "status": "approved",
+  "created_at": "2026-04-28"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "con-001",
+  "politician_id": "petteri-orpo",
+  "topic": ["education", "budget"],
+  "statement_a": {
+    "id": "2023-04-01-orpo-education-001",
+    "text": "Emme leikkaa koulutuksesta",
+    "text_en": "We will not cut education funding",
+    "date": "2023-04-01",
+    "source_url": "https://example.com/campaign-speech-2023",
+    "context": "Campaign promise before elections"
+  },
+  "statement_b": {
+    "id": "2024-09-15-orpo-education-002",
+    "text": "Koulutusleikkaukset ovat välttämättömiä taloustilanteen vuoksi",
+    "text_en": "Education cuts are necessary due to the economic situation",
+    "date": "2024-09-15",
+    "source_url": "https://example.com/budget-speech-2024",
+    "context": "Budget proposal in parliament"
+  },
+  "time_between_days": 533,
+  "acknowledged": false,
+  "acknowledgment_details": null,
+  "severity": "major",
+  "notes": "Direct contradiction of campaign promise. No public acknowledgment of position change.",
+  "submitted_by": "demo",
+  "status": "approved",
+  "created_at": "2026-04-28"
+}

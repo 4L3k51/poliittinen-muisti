@@ -1,0 +1,24 @@
+{
+  "id": "ver-002",
+  "statement_id": "2022-06-10-marin-nato-001",
+  "outcome": "Suomi liittyi NATOon huhtikuussa 2023. Ei sotilaallisia konflikteja. Pelotevaikutus nähtävissä.",
+  "outcome_en": "Finland joined NATO in April 2023. No military conflicts. Deterrence effect visible.",
+  "verdict": "correct",
+  "verdict_reasoning": "NATO membership achieved without incident, security guarantees now in place",
+  "evidence": [
+    {
+      "url": "https://nato.int/finland-membership",
+      "description": "NATO official announcement",
+      "type": "official_source"
+    },
+    {
+      "url": "https://example.com/security-analysis",
+      "description": "Security policy analysis 2024",
+      "type": "expert_analysis"
+    }
+  ],
+  "outcome_date": "2024-06-10",
+  "verified_by": "demo",
+  "review_status": "approved",
+  "created_at": "2026-04-28"
+}

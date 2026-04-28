@@ -1,0 +1,17 @@
+{
+  "id": "2022-06-10-marin-nato-001",
+  "politician_id": "sanna-marin",
+  "statement": "NATO-jäsenyys vahvistaa Suomen turvallisuutta merkittävästi",
+  "statement_en": "NATO membership will significantly strengthen Finland's security",
+  "type": "prediction",
+  "topic": ["security", "nato", "foreign_policy"],
+  "confidence": "high",
+  "reasoning": "Collective defense provides stronger deterrence than neutrality",
+  "date": "2022-06-10",
+  "source_url": "https://example.com/nato-debate-2022",
+  "source_type": "parliament_speech",
+  "platform": "Eduskunta",
+  "submitted_by": "demo",
+  "status": "approved",
+  "created_at": "2026-04-28"
+}

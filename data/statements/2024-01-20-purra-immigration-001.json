@@ -1,0 +1,17 @@
+{
+  "id": "2024-01-20-purra-immigration-001",
+  "politician_id": "riikka-purra",
+  "statement": "Tiukempi maahanmuuttopolitiikka vähentää rikollisuutta merkittävästi vuoden sisällä",
+  "statement_en": "Stricter immigration policy will significantly reduce crime within a year",
+  "type": "prediction",
+  "topic": ["immigration", "crime", "security"],
+  "confidence": "high",
+  "reasoning": "Correlation between immigration and crime statistics",
+  "date": "2024-01-20",
+  "source_url": "https://example.com/mtv-interview-2024",
+  "source_type": "tv_interview",
+  "platform": "MTV3",
+  "submitted_by": "demo",
+  "status": "approved",
+  "created_at": "2026-04-28"
+}
