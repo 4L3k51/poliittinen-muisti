@@ -2,7 +2,7 @@
 
 > Track what Finnish politicians say, predict, and whether they were right.
 
-**Open data. Open source. Full transparency.**
+**Open data. Open source. Full transparency. Permanently archived.**
 
 ---
 
@@ -183,6 +183,28 @@ python scripts/transcribe.py "https://youtube.com/watch?v=..."
 ```bash
 python scripts/validate.py
 ```
+
+---
+
+## Permanence & Archiving
+
+This data is designed to be **permanent and uncensorable**.
+
+| Layer | Purpose |
+|-------|---------|
+| **GitHub** | Primary host, accepts contributions |
+| **Software Heritage** | Automatic archival of all commits ([archive link](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/4L3k51/poliittinen-muisti)) |
+| **Forks** | Anyone can fork, creating independent copies |
+| **Git clones** | Full history downloadable by anyone |
+
+**Why this matters:**
+- Politicians cannot request removal of their public statements
+- Media companies cannot DMCA public interest journalism
+- Even if this repo is deleted, archived copies persist
+- Software Heritage is hosted by French academic institution (Inria), outside commercial pressure
+
+**To verify archival:**
+Visit [archive.softwareheritage.org](https://archive.softwareheritage.org/save/) and search for this repository.
 
 ---
 
